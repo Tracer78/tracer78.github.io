@@ -16,10 +16,10 @@ let g_img_postperiod;
 let g_img_normalday;
 
 function preload() {
-  g_img_preperiod = loadImage('https://i.imgur.com/292WSS3.jpeg');
-  g_img_periodday = loadImage('https://i.imgur.com/pmsH5QW.jpeg');
-  g_img_postperiod = loadImage('https://i.imgur.com/Ykd2l9l.jpeg');
-  g_img_normalday = loadImage('https://i.imgur.com/5wdbXKj.jpeg');
+  g_img_preperiod = loadImage('assets/preperiod.jpg');
+  g_img_periodday = loadImage('assets/periodday.jpg');
+  g_img_postperiod = loadImage('assets/psotperiod.jpg');
+  g_img_normalday = loadImage('assets/normalday.jpg');
 }
 
 function setup() {
